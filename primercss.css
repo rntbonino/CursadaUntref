@@ -22,3 +22,24 @@ nav {
 #nose2 {
     padding-right: 50px;
 }
+body{
+    background-color: coral
+    ;
+}
+
+#renis{
+    border: 50px;
+    padding-right: 55%;
+}
+#rena{
+
+font-size: larger;
+    background-color: darksalmon;
+    border: 20px;
+    border-color: antiquewhite;
+    padding-left: 45%;
+
+}
+b{font-size: smaller;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: deeppink;}
