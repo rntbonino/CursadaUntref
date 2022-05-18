@@ -1,0 +1,24 @@
+.pag1 {
+    display: none;
+}
+
+header {
+    background-color: darksalmon;
+    height: 100px;
+}
+
+nav {
+    list-style-type: none;
+    margin-bottom: 20px;
+    padding: 45px;
+}
+
+#nose {
+    font-size: 200%;
+    font-family: 40px;
+    color: blanchedalmond;
+}
+
+#nose2 {
+    padding-right: 50px;
+}
