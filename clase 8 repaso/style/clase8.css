@@ -1,0 +1,16 @@
+* {
+    background-color: darkolivegreen;
+    color: black;
+    font-size: 110%;
+    font-family: fantasy;
+}
+.nav{
+    list-style: none;
+}
+li{
+    display: inline-block; 
+    position: relative;
+    left: 50%;
+    font-size: 30px;
+    padding: 30px;
+}
